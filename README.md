@@ -13,4 +13,10 @@ Entre outras linguagens e frameworks
 ✉ Se quiser entrar em contato fique a vontade:<br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luigi-belanda-752436183/) 
 
-![Luigi Belanda GitHub stats](https://github-readme-stats.vercel.app/api?username=LuigiBelanda&hide=prs,issues,contribs&show_icons=true&theme=midnight-purple)
+<div>
+  <a href="https://github.com/LuigiBelanda">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=LuigiBelanda&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen2121&&layout=compact&hide=shell&theme=midnight-purple"/>
+</div
+    
+![Snake animation](https://github.com/LuigiBelanda/LuigiBelanda/blob/output/github-contribution-grid-snake.svg)
