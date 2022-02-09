@@ -5,6 +5,11 @@
 
 - 🌱 I’m currently learning **NodeJs, EJS, Express, SQLite etc.**
 - 📫 How to reach me **luigi.belanda.milani@gmail.com**
+- 📒 Projects carried out for personal studies: <br>
+**![API Front and Back](https://github.com/LuigiBelanda/API-FrontBack-Rocketseat) <br>
+![Rocket.q anonymous question site](https://github.com/LuigiBelanda/NLW-Together-Rocket.q) <br>
+![API NodeJS/Express/Mongo](https://github.com/LuigiBelanda/API-NodeJS-Express-Mongo) <br>
+![JobsCalc website to manage freelance projects](https://github.com/LuigiBelanda/JobsCalc-Rocketseat)**
 
 <br>
 
