@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luigi Belanda</h1>
-<h3 align="center">Systems Analysis and Development student (Fatec de Taquaritinga) and technology lover</h3>
+<h3 align="center">Programming student and technology lover</h3>
 
 <br>
 
@@ -7,139 +7,61 @@
 
 - 🌱 I’m currently learning **NodeJs, EJS, Express, SQLite etc.**
 - 📫 How to reach me **luigi.belanda.milani@gmail.com**
-- 📒 Projects carried out for personal studies: <br>
-**![API Front and Back](https://github.com/LuigiBelanda/API-FrontBack-Rocketseat) <br>
-![Rocket.q anonymous question site](https://github.com/LuigiBelanda/NLW-Together-Rocket.q) <br> 
-![API NodeJS/Express/Mongo](https://github.com/LuigiBelanda/API-NodeJS-Express-Mongo) <br>
-![JobsCalc website to manage freelance projects](https://github.com/LuigiBelanda/JobsCalc-Rocketseat) <br>**
+- 🏫 Systems Development Technician - <a href="https://etecdeibitinga.wixsite.com/novo">ETEC de Ibitinga</a> (Subjects studied in the course: Web Programming, Database, Systems Analysis and Design, Mobile Application Programming, Embedded Systems, etc.)
+- 🔬 <a href="https://www.fatectq.edu.br"/>FATEC Student of Taquaritinga</a> - Technologist in Systems Analysis and Development
+- 💻 I prefer to program the backend of projects
+
+<br>
+<br>
+<br>
+
+<h2 align="center"> 📒 Projects carried out for personal studies </h2>
+<p align="center">
+  <a href="https://github.com/LuigiBelanda/NLW-Together-Rocket.q">
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=LuigiBelanda&repo=NLW-Together-Rocket.q&theme=midnight-purple">
+  </a>
+   
+  <a href="https://github.com/LuigiBelanda/JobsCalc-Rocketseat">
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=LuigiBelanda&repo=JobsCalc-Rocketseat&theme=midnight-purple">
+  </a>
+</p>
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">📞 Connect with me:</h2>
+<p align="center">
     <a href="https://linkedin.com/in/luigi-belanda-752436183/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luigi-belanda-752436183/" height="30" width="40" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://instagram.com/luigibelanda" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luigibelanda" height="30" width="40" />
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="https://discord.gg/Luigi Belanda#9658" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Luigi Belanda#9658" height="30" width="40" />
-    </a>
+</p>
+    
+<br>
+
+<h2 align="center">🚀 Languages / Tools / My skills:</h2>
+<p align="center"> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <br>
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <code>
-        <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> 
-        </a> 
-    </code>
-    <code> 
-        <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" /> 
-        </a>
-    </code> 
-    <code> 
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> 
-        </a>
-    </code> 
-    <code>    
-        <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" /> 
-        </a>
-    </code> 
-    <code>  
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> 
-        </a>
-    </code>  
-    <code> 
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> 
-        </a>
-    </code>  
-    <code> 
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-        </a>
-    </code> 
-    <code> 
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> 
-        </a>
-    </code>
-    <code>  
-        <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40" /> 
-        </a>
-    </code> 
-    <code> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">     
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> 
-        </a>
-    </code> 
-        <br>
-    <code>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> 
-        </a>
-    </code>
-    <code> 
-        <a href="https://mochajs.org" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40" /> 
-        </a>
-    </code>
-    <code> 
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> 
-        </a>
-    </code>
-    <code> 
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
-        </a>
-    </code>
-    <code> 
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> 
-        </a>
-    </code>
-    <code> 
-        <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /> 
-        </a>
-    </code> 
-    <code>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> 
-        </a>
-    </code> 
-    <code>  
-        <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> 
-        </a>
-    </code>
-    <code> 
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
-        </a> 
-    </code>
-    <code>
-        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> 
-        </a>
-    </code> 
-</p>
-
-<br>
-
-<div>
-  <a href="https://github.com/LuigiBelanda">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=LuigiBelanda&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen2121&&layout=compact&hide=shell&theme=midnight-purple"/>
-</div
+<h2 align="center"> ⭐ Information about my GitHub account </h2>
+<div align="center">
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=LuigiBelanda&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen2121&&layout=compact&hide=shell&theme=midnight-purple"/>
+</div>
