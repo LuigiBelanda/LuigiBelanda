@@ -21,8 +21,8 @@
     <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=LuigiBelanda&repo=NLW-Together-Rocket.q&theme=midnight-purple">
   </a>
    
-  <a href="https://github.com/LuigiBelanda/JobsCalc-Rocketseat">
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=LuigiBelanda&repo=JobsCalc-Rocketseat&theme=midnight-purple">
+  <a href="https://github.com/LuigiBelanda/readme-cli-create">
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=LuigiBelanda&repo=readme-cli-create&theme=midnight-purple">
   </a>
 </p>
 
