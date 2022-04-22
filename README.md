@@ -36,6 +36,12 @@
     <a href="https://instagram.com/luigibelanda" target="blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
+    <a hred="https://medium.com/@luigibelanda"> 
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+    </a>
+    <a hred="https://dev.to/luigibelanda"> 
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+    </a>
 </p>
     
 <br>
