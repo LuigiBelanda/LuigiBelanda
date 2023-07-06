@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Luigi Belanda</h1>
+<h1 align="center">Hi, I'm Luigi Belanda</h1>
 <h3 align="center">Programming student and technology lover</h3>
 
 <br>
@@ -69,5 +69,5 @@
 <h2 align="center"> ⭐ Information about my GitHub account </h2>
 <div align="center">
     <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=LuigiBelanda&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
-    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellen2121&&layout=compact&hide=shell&theme=midnight-purple"/>
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiBelanda&&layout=compact&hide=shell&theme=midnight-purple"/>
 </div>
