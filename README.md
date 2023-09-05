@@ -30,7 +30,7 @@
 
 <h2 align="center">📞 Connect with me:</h2>
 <p align="center">
-    <a href="https://linkedin.com/in/luigibelanda/" target="blank">
+    <a href="https://www.linkedin.com/in/luigi-belanda/" target="blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://instagram.com/luigibelanda" target="blank">
